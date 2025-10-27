@@ -1,33 +1,35 @@
 College Admission Management System
-📘 Description
+
+Description
 
 The College Admission Management System is a simple Java-based project that helps manage students, courses, and admission applications using a MySQL database.
 It allows you to:
 
-Add and view students
+    Add and view students
 
-Add and view courses
+    Add and view courses
 
-Submit admission applications
+    Submit admission applications
 
-Automatically approve or reject applications based on student marks and course cut-off
+    Automatically approve or reject applications based on student marks and course cut-off
 
 This project is built using Core Java and JDBC (Java Database Connectivity) for handling MySQL database operations.
 It’s designed to help beginners understand how to connect Java applications to a database and perform basic CRUD (Create, Read, Update, Delete) operations.
 
-🧩 Features
+Features
 
-Add new students with their marks
+    Add new students with their marks
 
-Add courses with their cutoff marks
+    Add courses with their cutoff marks
 
-Apply for a course
+    Apply for a course
 
-Approve or reject applications based on eligibility
+    Approve or reject applications based on eligibility
 
-View all students, courses, and applications from the database
+    View all students, courses, and applications from the database
 
-🗂️ Project Structure
+Project Structure
+
 CollegeAdmissionManagement/
 │
 ├── Database.java          → Handles MySQL connection
@@ -37,7 +39,7 @@ CollegeAdmissionManagement/
 ├── Admission.java         → Handles all database operations
 └── Main.java              → Runs the project
 
-🧠 Database Details
+Database Details
 
 Database Name: admissionmanagement
 
